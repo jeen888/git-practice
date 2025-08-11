@@ -1,5 +1,12 @@
 team: Leopards
 
-manasger: Nicolas
+manager: Nicolas
 
 coach: Melissa
+
+members:
+- Linda
+- William
+- David
+- Olivia
+- Evie
